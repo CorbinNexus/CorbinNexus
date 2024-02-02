@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Telvin Greenwood
+- 👋 Hi, I’m @Corbin Nexus
 - 👀 I’m interested in artificial intelligence and data analytics.
 - 🌱 I’m currently learning Python
 - 💞️ At the moment I'm just exploring and learning so not doing any major work.
