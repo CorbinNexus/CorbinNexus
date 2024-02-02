@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Telvin Greenwood
-- 👀 I’m interested in webdevelopment, focus on the basic of HTML, CSS and JavaScript.
-- 🌱 I’m currently learning CSS and JavaScript
-- 💞️ At the moment im just exploring and learning so not doing any major work.
+- 👀 I’m interested in artificial intelligence and data analytics.
+- 🌱 I’m currently learning Python
+- 💞️ At the moment I'm just exploring and learning so not doing any major work.
 - 📫 I will get back with contact information later on :)
 
 <!---
