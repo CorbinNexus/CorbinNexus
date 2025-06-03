@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Corbin Nexus
-- 👀 I’m interested in artificial intelligence and data analytics.
+- 👋 Hi, I’m Daniel Ruus
+- 👀 I’m interested in artificial intelligence and data.
 - 🌱 I’m currently learning Python
 - 💞️ At the moment I'm just exploring and learning so not doing any major work.
 - 📫 I will get back with contact information later on :)
